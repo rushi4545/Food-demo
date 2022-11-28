@@ -4,7 +4,7 @@
     <head>
         <title>Food Order Wesite - Home Page</title>
 
-        <link rel="stylesheet" href="css\admin.csscss\admin.css">
+        <link rel="stylesheet" href="css\admin.css">
     </head>
 
     <body>
