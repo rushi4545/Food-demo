@@ -4,7 +4,7 @@
     <head>
         <title>Food Order Wesite - Home Page</title>
 
-        <link rel="stylesheet" href="../css/admin.css">
+        <link rel="stylesheet" href="css\admin.css">
     </head>
 
     <body>
@@ -12,7 +12,7 @@
             <div class ="wrapper">
              <ul>
                  <li><a href="#">Home</a></li>
-                 <li><a href="#">Admin Manager</a></li>
+                 <li><a href="#">Admin</a></li>
                  <li><a href="#">Catagory</a></li>
                  <li><a href="#">Food</a></li>
                  <li><a href="#">Order</a></li>
@@ -20,15 +20,20 @@
                 </div>
         </div>
 
-        <div class= "main-content">
+        <div class= "menu-content">
             <div class = "wrapper">
-            <strong>DASHBOARD</strong>
-            </div>
+            <h1>Manage Admin</h1>
+               
+
+                <div class= "clearfix"></div>
+
+             </div>
         </div>
 
+       
         <div class ="footer">
             <div class = "wrapper">
-                <p class="text-center">2022 All right reserved, some Restaurent. Developed By - <a href="#">Sip n Snacks</a></p>
+                <p class="text-center"> 2022 All right reserved, some Restaurent. Developed By- <a href="#">Sip n Snacks</a></p>
             </div>  
         </div>  
     </body>
