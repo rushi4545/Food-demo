@@ -34,6 +34,7 @@
     <div class = "wrapper">
     <h1>Dashboard</h1>
        
+<<<<<<< HEAD
 
     <div class= "col-4"></div>
         <div>5</div>
@@ -73,4 +74,12 @@
 </div>  
 
 </body>
+=======
+        <div class ="footer">
+            <div class = "wrapper">
+                <p class="text-center"> 2022 All right reserved, some Restaurent. Developed By- <a href="#">Sip n Snacks</a></p>
+            </div>  
+        </div>  
+    </body>
+>>>>>>> e0191ed3c33de7e5fb09a3aa9976fb3dfa24b79a
 </html>
